@@ -1,4 +1,4 @@
-# olx-scraper
+# OLX-Scraper
 
 # What I Learned
 
