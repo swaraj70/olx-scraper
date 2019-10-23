@@ -9,4 +9,4 @@
 
 # Link to my Heroku app
 
-[http://olxscraper.herokuapp.com]
+[olxscraper.herokuapp.com](http://olxscraper.herokuapp.com)
