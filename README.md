@@ -7,6 +7,6 @@
 * Materialize for CSS
 * Deploying app on Heroku 
 
-# Link to my Heroku app
+# Link to olxscraper Heroku app
 
 [olxscraper.herokuapp.com](http://olxscraper.herokuapp.com)
